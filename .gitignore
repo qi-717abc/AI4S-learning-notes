@@ -1,0 +1,5 @@
+# 本机插件、工作区与缓存
+.obsidian/
+.copilot/
+.agents/
+copilot/
